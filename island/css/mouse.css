@@ -1,0 +1,11 @@
+@charset "utf-8";
+mouse {
+}
+a:link,
+a:visited{
+	color:#000;
+	text-decoration:none;}
+	
+a:hover{
+	color:#666;
+	text-decoration:none;}
